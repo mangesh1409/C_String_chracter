@@ -1,12 +1,12 @@
 /* Accept character from user and check whether it is special symbol or not
 	(!,  @,  #,  $,  %,  ^,  &,  *)
 	
-	Input:	@			e			2			^
-	Output:	True		False		False		True 									*/
+	Input:	@	e	2	^
+	Output:	True	False	False	True				*/
 	
 #include<stdio.h>
 
-#define TRUE		1
+#define TRUE	1
 #define FALSE	0
 
 typedef  int BOOL;
