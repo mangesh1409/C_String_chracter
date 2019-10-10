@@ -1,7 +1,7 @@
 /* Accept string & one character from user and check whether that character is present or not in that string
-	Input:	Marvellous MulTi OS     				nagTy T32vb
-					e													%
-	Output:   Present										Absent							*/
+	Input:	Marvellous MulTi OS    nagTy T32vb
+		e			%
+	Output: Present			Absent							*/
 	
 	
 #include<stdio.h>
