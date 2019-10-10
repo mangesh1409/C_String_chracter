@@ -1,8 +1,8 @@
 /* Accept character from user. If it is lower case then display it's corresponding upper case character.
 	If it is upper case then display it's corresponding lower case character. In other case display as it is
 	
-	Input:		a		B		*	
-	Output: 		A		b		*																								*/
+	Input:	a	B	*	
+	Output: A	b	*										*/
 	
 #include<stdio.h>
 
