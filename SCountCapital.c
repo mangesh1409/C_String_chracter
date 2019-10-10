@@ -1,6 +1,6 @@
 /* Accept string from user and count capital letters 
 	Input:	Marvellous MULTi oS
-	Output:	6												*/
+	Output:	6				*/
 	
 #include<stdio.h>
 
@@ -36,5 +36,3 @@ int main()
 
 	return 0;
 }
-	
-	
