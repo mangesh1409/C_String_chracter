@@ -1,7 +1,7 @@
 /* Accept string & one character from user and return index of 1st occurence of charcter in that string
-	Input:	Marvellous Multi OS		Marvellous Multi OS
-				e									W
-	Output:	4									-1									*/
+	Input:	Marvellous Multi OS	Marvellous Multi OS
+		e			W
+	Output:	4			-1									*/
 	
 #include<stdio.h>
 
