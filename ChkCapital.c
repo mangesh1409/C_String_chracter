@@ -1,11 +1,11 @@
 /* Accept character from user and check whether it's capital letter or not
-	Input:		F			a			B			y
-	Output:		True		False		True		False							   */
+	Input:	F	a	B	y
+	Output:	True	False	True	False				   */
 	
 
 #include<stdio.h>
 
-#define TRUE		1
+#define TRUE	1
 #define FALSE	0
 
 typedef  int BOOL;
