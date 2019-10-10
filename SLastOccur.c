@@ -1,7 +1,7 @@
 /* Accept string & one character from user and return index of last occurence of charcter in that string
-	Input:	Marvellous Multi OS		Marvellous Multi OS      Marvellous Multi OS
-				e									l								   w
-	Output:	4									13								  -1								*/
+	Input:	Marvellous Multi OS  Marvellous Multi OS   Marvellous Multi OS
+		e		     l		           w
+	Output:	4		     13		          -1				*/
 	
 #include<stdio.h>
 
