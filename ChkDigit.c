@@ -1,11 +1,11 @@
 /* Accept character from user and check whether it's digit or not
-	Input:		F			2			b			4
-	Output:		False		True		False		True					   */
+	Input:	F	2	b	4
+	Output:	False	True	False	True		   */
 	
 
 #include<stdio.h>
 
-#define TRUE		1
+#define TRUE	1
 #define FALSE	0
 
 typedef  int BOOL;
