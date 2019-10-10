@@ -1,11 +1,11 @@
 /* Accept character from user and check whether it's an alphabate or not
-	Input:		F				&			^			y
-	Output:		True			False		False		True							   */
+	Input:	F	&	^	y
+	Output:	True	False	False	True			   */
 	
 
 #include<stdio.h>
 
-#define TRUE		1
+#define TRUE	1
 #define FALSE	0
 
 typedef  int BOOL;
