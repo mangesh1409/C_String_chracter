@@ -7,7 +7,7 @@
 	Input:	T
 	Output:	T U V W X Y Z
 	Input:	9
-	Output:	 																											*/
+	Output:												*/
 	
 #include<stdio.h>
 	
