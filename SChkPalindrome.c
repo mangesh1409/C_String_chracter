@@ -1,10 +1,10 @@
 /* Accept string from user and check whether that string is palindrome or not
-	Input:	abcba			123454361
-	Outpu:	TRUE		FALSE								*/
+	Input:	abcba	1234461
+	Outpu:	TRUE	FALSE								*/
 	
 #include<stdio.h>
 
-#define TRUE		1
+#define TRUE	1
 #define FALSE	0
 
 typedef int BOOL;
