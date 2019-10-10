@@ -1,7 +1,7 @@
 /* Accept two characters from user.Swap them if both the characters are small letters
-	 or both the characters are capital letter. In other cases keep the contents as it is.
-	 Input:	a   b	   A  M 	 m   B    1   %	
-	 Output:	b  a	   M  A	 m   B    1   %									*/
+   or both the characters are capital letter. In other cases keep the contents as it is.
+	 Input:	 a   b	    A   M     m   B     1   %	
+	 Output: b   a	    M   A     m   B     1   %					*/
 	 
 #include<stdio.h>
 
