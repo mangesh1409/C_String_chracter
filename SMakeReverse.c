@@ -1,6 +1,6 @@
 /* Accept string from user and reverse that string inplace and print it
-	Input:	abcd		@#cv    12345  
-	Output:	dcba		vc#@	54321								*/
+	Input:	abcd	@#cv    12345  
+	Output:	dcba	vc#@	54321					*/
 	
 #include<stdio.h>
 
