@@ -1,8 +1,8 @@
 /* Accept character from user and dipslay its ASCII value in decimal,octal and hexadecimal format
 	Input:	A
 	Output:	Decimal		65
-				Octal			0101
-				Hexadecimal	0x41																				*/
+		Octal		0101
+		Hexadecimal	0x41								*/
 				
 #include<stdio.h>
 
