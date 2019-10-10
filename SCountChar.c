@@ -1,7 +1,7 @@
 /* Accept string & one character from user and return frequency of that charcter in that string
 	Input:	MarvellLlouS Multi OS
-				l
-	Output:	4																			*/
+		l
+	Output:	4										*/
 	
 #include<stdio.h>
 
