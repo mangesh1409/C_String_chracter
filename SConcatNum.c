@@ -1,8 +1,8 @@
 /* Accept  2 strings from user and 1 number and concat that number of characters from second string
 	after first string.
 	Input :    String 1- Marvellous Infosystems
-				String 2- Logic Building	
-				No- 	5
+		   String 2- Logic Building	
+		   No- 	5
 
 	Output : Marvellous Infosystems Logic				*/
 	
@@ -31,9 +31,6 @@ int main()
 	char arr[50];
 	char brr[30];
 	int No=0;
-	
-	//char arr[50] = "Marvellous Infosystems";
-	//char brr[30] = "Logic Building";
 	
 	printf("Enter 1st string: ");
 	scanf("%[^'\n']s",arr);
