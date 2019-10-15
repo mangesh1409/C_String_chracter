@@ -1,7 +1,6 @@
-/* Accept  2 strings from user and concat second string
-	after first string.
+/* Accept  2 strings from user and concat second string after first string.
 	Input :    String 1- Marvellous Infosystems
-				String 2- Logic Building	
+		   String 2- Logic Building	
 
 	Output : Marvellous Infosystems Logic Building					*/
 	
@@ -36,10 +35,7 @@ int main()
 {
 	char arr[50];
 	char brr[30];
-	
-	//char arr[50] = "Marvellous Infosystems";
-	//char brr[30] = "Logic Building";
-	
+		
 	printf("Enter 1st string: ");
 	scanf("%[^'\n']s",arr);
 	
