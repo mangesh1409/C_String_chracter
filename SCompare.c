@@ -1,7 +1,7 @@
 /* Accept  2 strings from user and check whether contents of both strings are equal or not.
 
 	Input :    String 1- Marvellous Infosystems
-				String 2- Marvellous Infosystems
+		   String 2- Marvellous Infosystems
 
 	Output : Strings are equal				*/
 	
