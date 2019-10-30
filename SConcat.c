@@ -1,6 +1,6 @@
 /* Accept  2 strings from user and concat second string after first string.
 	Input :    String 1- Marvellous Infosystems
-				String 2- Logic Building	
+		   String 2- Logic Building	
 
 	Output : Marvellous Infosystems Logic Building					*/
 	
