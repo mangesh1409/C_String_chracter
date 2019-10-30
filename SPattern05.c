@@ -1,10 +1,10 @@
 /*  Accept string from user and print below pattern
 	Input:	InDiA
 	Output:	i n d i a
-				i n d i a
-				i n d i a
-				i n d i a
-				i n d i a											*/
+		i n d i a
+		i n d i a
+		i n d i a
+		i n d i a			*/
 				
 #include<stdio.h>
 
