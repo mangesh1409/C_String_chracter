@@ -1,8 +1,8 @@
 /* Accept  2 strings & 1 number from user and concat that number of character from second string
 	after first string.If number is greater than length of 2nd string then concat whole string.
 	Input :    String 1- Marvellous Infosystems
-	String 2- Logic Building	
-	No-	8
+		   String 2- Logic Building	
+		   No-	8
 
 	Output : Marvellous Infosystems Logic Bu					*/
 	
