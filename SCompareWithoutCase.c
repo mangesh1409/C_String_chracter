@@ -1,7 +1,7 @@
 /* Accept  2 strings from user and check whether contents of both strings are equal or not without considering case.
 
 	Input :    String 1- MaRvelLOUS
-				String 2- MarVELloUs
+		   String 2- MarVELloUs
 
 	Output : Strings are equal				*/
 	
