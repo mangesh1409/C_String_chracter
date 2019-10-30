@@ -1,6 +1,6 @@
 /* Accept  2 strings from user and concat second string after first string in reverse order.
 	Input :    String 1- Marvellous
-				String 2- Logic	
+		   String 2- Logic	
 
 	Output : Marvellous cigoL				*/
 	
