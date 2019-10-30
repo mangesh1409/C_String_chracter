@@ -1,10 +1,10 @@
 /*  Accept string from user and print below pattern
 	Input:		India
 	Output:		I n d i a
-					I n d i a
-					I n d i a
-					I n d i a
-					I n d i a											*/
+			I n d i a
+			I n d i a
+			I n d i a
+			I n d i a			*/
 					
 #include<stdio.h>
 
