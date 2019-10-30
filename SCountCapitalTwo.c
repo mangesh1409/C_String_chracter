@@ -1,6 +1,6 @@
 /* Accept two string from user and display number of capital letters from both string
 	Input: 	String 1-  InDia IS mY
-				String 2-  helLo WOrld..
+		String 2-  helLo WOrld..
 	Output:		5		3											*/
 	
 
