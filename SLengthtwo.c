@@ -1,7 +1,7 @@
 /* Accept two string from user and display length of both string
 	Input: 	String 1-  India is my
-				String 2-  hello world..
-	Output:		11	 	13											*/
+		String 2-  hello world..
+	Output:	   11	 	13											*/
 	
 
 #include<stdio.h>
