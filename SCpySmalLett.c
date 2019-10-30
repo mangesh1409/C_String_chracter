@@ -1,4 +1,6 @@
-/* Accept string from user and copy small letters from that string into another string */
+/* Accept string from user and copy small letters from that string into another string 
+		Input:	India Is My CountrY
+		Output:	ndiasyountr																		*/
 
 #include<stdio.h>
 
@@ -13,6 +15,7 @@ void CpyStr(char *Source, char *Dest)
 		}
 		Source++;
 	}
+	*Dest='\0';
 }
 
 int main()
