@@ -1,6 +1,6 @@
 /* Accept string from user and check whether that string is palindrome or not without considering the case
-	Input:	abcba			123454361		AbcDCBa
-	Outpu:	TRUE		FALSE			TRUE		*/
+	Input:	abcba	123454361   AbcDCBa
+	Outpu:	TRUE	FALSE	    TRUE		*/
 	
 #include<stdio.h>
 
