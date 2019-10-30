@@ -1,8 +1,8 @@
 /* Accept  2 strings & 1 number from user and check whether number of that character in both strings are equal or not.
 
 	Input :    String 1- Marvellous Infosystems
-				String 2- Marvellous Infosystems
-				No-   6
+		   String 2- Marvellous Infosystems
+		   No-   6
 	Output : Strings are equal				*/
 	
 #include<stdio.h>
